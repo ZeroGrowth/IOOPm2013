@@ -7,7 +7,7 @@ import java.util.Set;
 import javax.swing.SwingConstants;
 
 public class myPongModel implements PongModel {
-    //hej hej
+    //hej hej hej
 	Ball PongBall;
 	Bar LeftBar;
 	Bar RightBar;
