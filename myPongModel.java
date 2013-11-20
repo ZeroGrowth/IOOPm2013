@@ -7,7 +7,7 @@ import java.util.Set;
 import javax.swing.SwingConstants;
 
 public class myPongModel implements PongModel {
-    //hej
+    //hej hej
 	Ball PongBall;
 	Bar LeftBar;
 	Bar RightBar;
@@ -23,7 +23,6 @@ public class myPongModel implements PongModel {
 	Dimension FieldSize;
 	
 public myPongModel(){
-
 }
 
 public myPongModel(String leftPlayer, String rightPlayer){
