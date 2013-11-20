@@ -21,7 +21,7 @@ public class myPongModel implements PongModel {
 	String LeftPlayer;
 	String RightPlayer;
 	Dimension FieldSize;
-	
+    //hejdå
 public myPongModel(){
 }
 
